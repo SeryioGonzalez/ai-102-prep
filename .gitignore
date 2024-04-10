@@ -1,0 +1,3 @@
+*.env
+TODO/*
+git_init.sh

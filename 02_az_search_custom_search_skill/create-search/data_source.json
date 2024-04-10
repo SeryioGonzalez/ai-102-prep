@@ -1,0 +1,11 @@
+{
+  "name": "marchies-custom-data",
+  "description": "Documents for search.",
+  "type": "azureblob",
+  "credentials": {
+    "connectionString": "PLACEHOLDER"
+  },
+  "container": {
+    "name": "marchies-container"
+  }
+}
